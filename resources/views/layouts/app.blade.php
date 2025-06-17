@@ -122,7 +122,7 @@
                         <a class="nav-link dropdown-toggle {{ request()->is('akademik*') ? 'active' : '' }}" href="#" role="button" data-bs-toggle="dropdown">AKADEMIK</a>
                         <ul class="dropdown-menu">
                             <li><a class="dropdown-item" href="/akademik/kalenderakademik">KALENDER AKADEMIK</a></li>
-                            <li><a class="dropdown-item" href="/akademik/ekstrakurikuler">EKSTRAKULIKULER</a></li>
+                            <li><a class="dropdown-item" href="/akademik/ekstrakurikuler">EKSTRAKURIKULER</a></li>
                         </ul>
                     </li>
 
